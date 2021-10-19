@@ -1,0 +1,16 @@
+G:\Projects\ws-vs2019\NewMercado\NewMercado\bin\Debug\net5.0\NewMercado.exe
+G:\Projects\ws-vs2019\NewMercado\NewMercado\bin\Debug\net5.0\NewMercado.deps.json
+G:\Projects\ws-vs2019\NewMercado\NewMercado\bin\Debug\net5.0\NewMercado.runtimeconfig.json
+G:\Projects\ws-vs2019\NewMercado\NewMercado\bin\Debug\net5.0\NewMercado.runtimeconfig.dev.json
+G:\Projects\ws-vs2019\NewMercado\NewMercado\bin\Debug\net5.0\NewMercado.dll
+G:\Projects\ws-vs2019\NewMercado\NewMercado\bin\Debug\net5.0\ref\NewMercado.dll
+G:\Projects\ws-vs2019\NewMercado\NewMercado\bin\Debug\net5.0\NewMercado.pdb
+G:\Projects\ws-vs2019\NewMercado\NewMercado\obj\Debug\net5.0\NewMercado.csproj.AssemblyReference.cache
+G:\Projects\ws-vs2019\NewMercado\NewMercado\obj\Debug\net5.0\NewMercado.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\ws-vs2019\NewMercado\NewMercado\obj\Debug\net5.0\NewMercado.AssemblyInfoInputs.cache
+G:\Projects\ws-vs2019\NewMercado\NewMercado\obj\Debug\net5.0\NewMercado.AssemblyInfo.cs
+G:\Projects\ws-vs2019\NewMercado\NewMercado\obj\Debug\net5.0\NewMercado.csproj.CoreCompileInputs.cache
+G:\Projects\ws-vs2019\NewMercado\NewMercado\obj\Debug\net5.0\NewMercado.dll
+G:\Projects\ws-vs2019\NewMercado\NewMercado\obj\Debug\net5.0\ref\NewMercado.dll
+G:\Projects\ws-vs2019\NewMercado\NewMercado\obj\Debug\net5.0\NewMercado.pdb
+G:\Projects\ws-vs2019\NewMercado\NewMercado\obj\Debug\net5.0\NewMercado.genruntimeconfig.cache
